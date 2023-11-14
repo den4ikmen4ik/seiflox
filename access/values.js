@@ -3,9 +3,9 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "08.10.2004"; // Дата рождения
-var fullname = "Соловйов Богдан Володимирович" // ФИО
-var name = "Богдан" // Имя
+var birthdate = "03.11.2005"; // Дата рождения
+var fullname = "Сейфутдінов Дмитро Русланович" // ФИО
+var name = "Дмитро" // Имя
 
 // Паспорт
 var passport_id = "432567812" // Номер паспорта
