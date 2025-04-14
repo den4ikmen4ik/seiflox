@@ -4,7 +4,7 @@ var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
 var birthdate = "03.01.2007"; // Дата рождения
-var fullname = "Кліторчук Дмитро Русланович" // ФИО
+var fullname = "Будейко Дмитро Русланович" // ФИО
 var name = "Дмитро" // Имя
 
 // Паспорт
