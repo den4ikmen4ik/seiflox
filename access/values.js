@@ -4,7 +4,7 @@ var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
 var birthdate = "03.01.2007"; // Дата рождения
-var fullname = "Клиторчук Дмитро Олександрович" // ФИО
+var fullname = "Вафлист Дмитро Олександрович" // ФИО
 var name = "Дмитро" // Имя
 
 // Паспорт
