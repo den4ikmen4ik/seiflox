@@ -4,7 +4,7 @@ var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
 var birthdate = "03.01.2007"; // Дата рождения
-var fullname = "Вафлист Дмитро Олександрович" // ФИО
+var fullname = "Сейфутдинов Дмитро Олександрович" // ФИО
 var name = "Дмитро" // Имя
 
 // Паспорт
@@ -22,3 +22,4 @@ var rights_id = "АА0817ВС" // Права "Серія та номер""
 // COVID-сертификат
 var covid_valid_until = "01.03.2023" // Сертификат "Дійсний до"
 var covid_certificate_id = "URN:UVCI:01:UA:0<br>E55669376876888<br>B9E2520C4F88930" // Номер сертификата (<br> - перенос строки)
+
